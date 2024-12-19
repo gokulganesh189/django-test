@@ -1,0 +1,5 @@
+2024-12-19 10:44:14,841 (INFO)- user.views- This is an info message
+2024-12-19 10:44:14,842 (WARNING)- user.views- This is a warning message
+2024-12-19 10:44:14,842 (ERROR)- user.views- This is an error message
+2024-12-19 10:44:14,842 (CRITICAL)- user.views- This is a critical message
+2024-12-19 10:44:16,823 (WARNING)- django.request- Not Found: /favicon.ico
