@@ -1,0 +1,10 @@
+2024-12-16 10:14:58,936 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-16 10:15:36,509 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-16 10:15:39,269 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-16 10:15:43,241 (INFO)- user.views- This is an info message
+2024-12-16 10:15:43,241 (WARNING)- user.views- This is a warning message
+2024-12-16 10:15:43,242 (ERROR)- user.views- This is an error message
+2024-12-16 10:15:43,242 (CRITICAL)- user.views- This is a critical message
+2024-12-16 10:18:56,829 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/django_test_app/settings.py changed, reloading.
+2024-12-16 10:18:58,442 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-16 10:20:40,571 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/django_test_app/settings.py changed, reloading.

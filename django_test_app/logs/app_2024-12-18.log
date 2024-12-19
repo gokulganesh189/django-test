@@ -1,0 +1,19 @@
+2024-12-18 09:26:50,696 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:28:24,993 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-18 09:28:28,523 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:28:44,017 (INFO)- user.views- This is an info message
+2024-12-18 09:28:44,018 (WARNING)- user.views- This is a warning message
+2024-12-18 09:28:44,020 (ERROR)- user.views- This is an error message
+2024-12-18 09:28:44,020 (CRITICAL)- user.views- This is a critical message
+2024-12-18 09:28:50,987 (WARNING)- django.request- Not Found: /favicon.ico
+2024-12-18 09:30:46,676 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-18 09:30:53,909 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:31:02,347 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-18 09:31:06,561 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:33:35,824 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-18 09:33:44,209 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:35:38,682 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/views.py changed, reloading.
+2024-12-18 09:35:46,730 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-18 09:37:00,919 (WARNING)- django.request- Not Found: /favicon.ico
+2024-12-18 09:38:04,654 (INFO)- django.utils.autoreload- /home/gokul/django_app/django_test_app/user/models.py changed, reloading.
+2024-12-18 09:38:08,232 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader

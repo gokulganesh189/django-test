@@ -1,0 +1,5 @@
+2024-12-16 10:42:59,423 (INFO)- django.utils.autoreload- Watching for file changes with StatReloader
+2024-12-16 10:43:20,974 (INFO)- user.views- This is an info message
+2024-12-16 10:43:20,975 (WARNING)- user.views- This is a warning message
+2024-12-16 10:43:20,975 (ERROR)- user.views- This is an error message
+2024-12-16 10:43:20,976 (CRITICAL)- user.views- This is a critical message
